@@ -9,4 +9,8 @@ public static void main(String[] args) {
 	sum = a+b;
 	System.out.println(sum);
 }
+
+private void employee() {
+System.out.println("employee name is");
+}
 }
